@@ -1,5 +1,4 @@
 # ChatLLM
-ChatLLM 代码，仅限哥飞的朋友们社群成员使用
 
 ### 1. 右上角 Fork 本项目到你自己的 github 仓库
 
@@ -42,5 +41,4 @@ pnpm dev
 ### 7. 在浏览器打开 [http://localhost](http://localhost)
 
 
-## 有任何疑问联系 Wechat: GeFei55
 
